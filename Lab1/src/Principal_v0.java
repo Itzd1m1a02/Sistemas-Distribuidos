@@ -9,6 +9,12 @@ import java.util.Random;
 import java.util.regex.Pattern;
 import java.nio.charset.StandardCharsets;
 
+/*
+ * Cliente.java
+ * @author Dimitri Maia Ra: a2419840 
+ * @author Thiago Cristalvao Ra: a2368072
+ */
+
 public class Principal_v0 {
 
     public String read() {
@@ -59,13 +65,13 @@ public class Principal_v0 {
     public static void main(String[] args) {
         Principal_v0 app = new Principal_v0();
 
-        //testando a leitura de uma fortuna aleatória
+        //leitura de uma fortuna aleatória
         System.out.println("--- LENDO UMA FORTUNA ALEATÓRIA ---");
         String fortunaLida = app.read();
         System.out.println(fortunaLida);
         System.out.println("-----------------------------------");
 
-        //testando a escrita de uma nova fortuna
+        //escrita de uma nova fortuna
         System.out.println("\n--- ESCREVENDO UMA NOVA FORTUNA ---");
         String novaFortuna = "A dor e inevitavel o sofrimento e inevitavel.\n--Pain";
         app.write(novaFortuna);

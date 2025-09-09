@@ -14,9 +14,9 @@ import java.util.regex.Pattern;
 /*
  * Cliente.java
  * @author Dimitri Maia Ra: a2419840 
- * @author Thiago Cristalvao Ra: a
+ * @author Thiago Cristalvao Ra: a2368072
  * 
- * Servidor que atende requisicoes de leitura e escrita de fortunas.
+ * Cliente que se conecta a um servidor para ler ou escrever fortunas.
  * Utiliza JSON para formatar as mensagens entre cliente e servidor.
  */
 

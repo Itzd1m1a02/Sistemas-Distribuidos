@@ -5,10 +5,7 @@ import org.json.JSONObject;
 /*
  * Cliente.java
  * @author Dimitri Maia Ra: a2419840 
- * @author Thiago Cristalvao Ra: a
- * 
- * Cliente que se conecta a um servidor para ler ou escrever fortunas.
- * Utiliza JSON para formatar as mensagens entre cliente e servidor.
+ * @author Thiago Cristalvao Ra: a2368072
  */
 
 

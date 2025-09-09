@@ -12,12 +12,9 @@ import java.util.Random;
 import java.util.regex.Pattern;
 
 /*
- * Cliente.java
+ * Servidor.java
  * @author Dimitri Maia Ra: a2419840 
- * @author Thiago Cristalvao Ra: a
- * 
- * Servidor que atende requisicoes de leitura e escrita de fortunas.
- * Utiliza JSON para formatar as mensagens entre cliente e servidor.
+ * @author Thiago Cristalvao Ra: a2368072
  */
 
 public class Servidor {

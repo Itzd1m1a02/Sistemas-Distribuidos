@@ -61,7 +61,6 @@ public class Principal_v0 {
         }
     }
 
-    //metodo main para executar o programa
     public static void main(String[] args) {
         Principal_v0 app = new Principal_v0();
 

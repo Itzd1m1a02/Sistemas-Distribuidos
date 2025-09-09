@@ -9,6 +9,15 @@ import java.util.Random;
 import java.util.regex.Pattern;
 import java.nio.charset.StandardCharsets;
 
+/*
+ * Cliente.java
+ * @author Dimitri Maia Ra: a2419840 
+ * @author Thiago Cristalvao Ra: a2368072
+ * 
+ * Cliente que se conecta a um servidor para ler ou escrever fortunas.
+ * Utiliza JSON para formatar as mensagens entre cliente e servidor.
+ */
+
 public class Principal_v0 {
 
     public String read() {
